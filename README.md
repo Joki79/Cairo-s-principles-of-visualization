@@ -1,11 +1,11 @@
 # Cairo-s-principles-of-visualization
 Number of hailstorms in Denver, Collin and Laramie over the past 30 years
 
-This project is a part of my work done for the Coursera Data Science specialization by University of Michigan. We were given the overall assignemnet instructions but the research question and the data source are my ideas.
+These 2 projects are a part of my work done for the Coursera Data Science specialization by University of Michigan. 
 
+We were given the overall assignemnet instructions for the 1st project  but the research question and the data source are my ideas.
 
-
-# Denver, Collin or Laramie? Which county has had the most hailstorms over the past 30 years ?
+Denver, Collin or Laramie? Which county has had the most hailstorms over the past 30 years ?
 
 This visual is supposed to attract readers attention by displaying two apparently 'contradictory' graphs. The final purpose of the visual is to help reader to answer the research question: 'Which county had the most hailstorms over the past 30 years?' and to illustrate how graphics can lie. 
 
@@ -28,3 +28,10 @@ The data for this project can be found below:
 [storm_data_search_results laramie_till2012.csv](https://github.com/Joki79/Cairo-s-principles-of-visualization/files/7546934/storm_data_search_results.laramie_till2012.csv)
 
 [storm_data_search_resultsLaramie.csv](https://github.com/Joki79/Cairo-s-principles-of-visualization/files/7546935/storm_data_search_resultsLaramie.csv)
+
+
+
+
+For the second project we were given the data source and the research question. I applied Cairo's principles in creating this chart.
+
+
